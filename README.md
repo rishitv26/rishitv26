@@ -64,10 +64,10 @@ I’m constantly learning, experimenting with new technologies, and refining my 
 ## GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerKkemal&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerKkemal&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishitv26&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitv26&layout=compact&theme=radical" alt="Top Languages" height="150">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerKkemal&theme=radical" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitv26&theme=radical" alt="GitHub Streak" width="400">
 </div>
 
 ---
@@ -88,7 +88,3 @@ I’m always open to discussing technology, security, or potential collaboration
 </p>
 
 ---
-
-<div align="center">
-  <sub> Built with passion, curiosity, and a lot of coffee. </sub>
-</div>
