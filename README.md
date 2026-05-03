@@ -2,8 +2,8 @@
   <h1> Rishit Varshney </h1>
   <p><strong>Independent Researcher · Software Developer · Systems Developer · Control Systems Engineer</strong></p>
   <p>
-    <a href="https://linkedin.com/in/omer%20kemal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-    <a href="mailto:omerkemal2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/rishit-varshney-8b0786363/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+    <a href="mailto:varshneyrishit5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
   </p>
 </div>
 
