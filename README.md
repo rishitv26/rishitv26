@@ -118,7 +118,7 @@ I’m always open to discussing any potential collaborations or other cool ideas
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=omerKkemal&icon=0&color=6" alt="Visitor Count">
+  <img src="https://visitcount.itsvg.in/api?id=rishitv26&icon=0&color=6" alt="Visitor Count">
 </p>
 
 ---
