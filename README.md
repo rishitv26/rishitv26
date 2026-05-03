@@ -88,7 +88,7 @@ My technical range spans Python (PyTorch, NumPy), C/C++, x86 Assembly, and full-
 
 ## Let’s Connect
 
-I'm open to any research collaborations or internship opportunities in ML, robotics, systems, or any cool ideas you may have. Feel free to reach out to me via any of the platforms below!.
+I'm open to any research collaborations or internship opportunities in ML, robotics, systems, or any cool ideas you may have. Feel free to reach out to me via any of the platforms below!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishit-varshney-8b0786363/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
