@@ -100,9 +100,6 @@ I’m constantly learning, making, iterating, and expanding to new ideas and dis
 ## GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishitv26&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitv26&layout=compact&theme=radical" alt="Top Languages" height="150">
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitv26&theme=radical" alt="GitHub Streak" width="400">
 </div>
 
