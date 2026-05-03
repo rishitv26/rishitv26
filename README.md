@@ -11,13 +11,14 @@
 
 ## About Me
 
-I’m a developer passionate about building **practical software**, **automation tools**, and **security‑focused applications**. I specialize in backend development using **Python**, **Laravel**, and modern **API architectures** (Flask, FastAPI, Django, Laravel). My work often explores how systems work under the hood – from network protocols to operating system internals – and I love turning those insights into real‑world tools.
+I’m currently a student and a future developer passionate for building robots, control loops, websites, and applications that are most often made to help others and always made to help me grow my skillset & myself. I specialize in backend and AI development using **Python** (PyTorch, NumPy, Django...), system developement using **C**, **C++**, and **Assembly**, and engineering in areas of **CAD**, **PCB design**, and **manufacturing**. My work often explores the integration of machine learning into various fields and concepts, with my most recent intersections including papyrology and control theory. I plan to work in-depth with AI systems in the future, both for projects and as a potential career!
 
-**Security Research** – I develop offensive security and red‑team tools for educational and research purposes. These projects help me (and others) understand attack vectors, defense mechanisms, and the ever‑evolving landscape of cybersecurity.
+<!--
+**Adaptive Controller Research** – 
 
-**Cross‑Platform Development** – Using **Flet**, I build desktop and Android applications that bring backend logic to life with intuitive graphical interfaces.
+-->
 
-I’m constantly learning, experimenting with new technologies, and refining my workflow. Every project is an opportunity to deepen my knowledge in **software engineering, system development, and security research**.
+I’m constantly learning, making, iterating, and expanding to new ideas and discussion. Feel free to reach out via my LinkedIn or email!
 
 ---
 
