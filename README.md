@@ -26,12 +26,10 @@ I’m constantly learning, making, iterating, and expanding to new ideas and dis
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **SpecterPanel** | A web‑based Command & Control (C2) panel with encrypted API communication, botnet management, and code injection. | Flask, SQLAlchemy, AES |
-| **PhantomGate** | A persistent botnet agent that communicates with C2 servers, executes commands, performs UDP floods, and runs injected Python payloads. | Python, AES, SQLite, threading |
-| **GhostTrigger** | A multi‑purpose network utility (reverse shell, port scanner, FTP/HTTP servers, UDP flood) focused on security education. | Python, sockets, threading, bcrypt |
-| **editer.py** | A minimalist command‑line code editor for quick Python scripting, featuring line‑by‑line editing and a built‑in command system. | Python (no external dependencies) |
-
-> *All projects are developed for educational and research purposes. They demonstrate real‑world concepts in networking, security, and system programming.*
+| **[VLAE](https://github.com/rishitv26/VulcanLeague)** | An open source command-line based application that packages UNET models for image segmentation and ink detection of papyrus for the [Vesuvius Challenge](https://scrollprize.org/). | PyTorch, MatPlotLib, Pandas |
+| **[SPID](https://github.com/rishitv26/SPID)** | An in-progress algorithm for adaptive control that combines SGD with PID to perform automatic fine-tuning. Awaiting publication by May, 2026 | Python, MatPlotLib |
+| **[RishiOS](https://github.com/rishitv26/RishiOS)** | A command-line based operating system with basic memory management, process scheduling, interrupt handling offering PS/2 Keyboard, 1G Page support & FAT16 file system | x86-64 Assembly, C, Bochs, Qemu, GNU |
+| **[LibStoga](https://github.com/6121-The-Pioneers/LibStoga)** | A fast, minimalist motion control library featuring odometry-powered PID controlled autonomous routines for V5RC ecosystem. | PROS, C++ |
 
 ---
 
