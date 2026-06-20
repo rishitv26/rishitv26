@@ -11,7 +11,7 @@
 
 ## About Me
 
-I build at the intersection of machine learning, control systems, and systems programming. My current work includes combining SGD with PID (awaiting preprint May. 2026) to create a novel adaptive controller and VLAE, a UNET-based segmentation & ink detection pipeline for the Vesuvius Challenge. I also write low-level systems code, having built a full OS kernel from scratch, develop motion control libraries for competitive robotics, and build physical systems through CAD, machining, and PCB design.
+I build at the intersection of machine learning, control systems, and systems programming. My current work includes combining SGD with PID (awaiting preprint Jun. 2026) to create a novel adaptive controller and VLAE, a UNET-based segmentation & ink detection pipeline for the Vesuvius Challenge. I also write low-level systems code, having built a full OS kernel from scratch, develop motion control libraries for competitive robotics, and build physical systems through CAD, machining, and PCB design.
 My technical range spans Python (PyTorch, NumPy), C/C++, x86 Assembly, and full-stack web dev. I am always building, iterating, collaborating, and expanding my skillset—feel free to reach out!
 
 ---
